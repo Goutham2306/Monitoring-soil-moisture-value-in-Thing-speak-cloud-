@@ -142,6 +142,7 @@ void loop()
 ![EX5 - O1](https://github.com/user-attachments/assets/0ad6e37d-4890-4219-a4fe-065a452857c9)
 
 <img width="1886" height="78" alt="image" src="https://github.com/user-attachments/assets/12edbead-046e-49bd-a868-42995c132e53" />
+
 ![EX5 - O2](https://github.com/user-attachments/assets/7c0bb29b-7db9-42d0-8c68-9b9cbd05bef8)
 
 
